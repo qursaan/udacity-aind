@@ -1,4 +1,17 @@
-.mypy_cache/
-.idea/
-projects/
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
 _init_.py
+
+# jetbrain
+.idea/
+
+# mypy
+.mypy_cache/
+
+# mac osx
+.DS_Store
+
+# projects
+projects/
