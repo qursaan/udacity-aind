@@ -1,7 +1,3 @@
-# Udacity AI Nanodegree Programs
-
-AIND: AI Nanodegree (nd989)
-
-Codes & Summary though Program 
+# AIND: AI Nanodegree Programs
 
 1. **intro**: Introduction
